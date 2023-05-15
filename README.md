@@ -1,1 +1,1 @@
-This is a mock webpage designed to eventually detail the UI and codebases designed by Brea Grindley. It includes information about her and how to contact her. The page itself is a reflection of her coding knowledge to date. 
+
